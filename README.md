@@ -22,7 +22,7 @@
 
 - 🐸 [工作经验小记](https://littlefairy.top/docs/category/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E9%AA%8C%E5%B0%8F%E8%AE%B0)
   
-- 🐳 [生活的碎碎念](https://littlefairy.top/docs/category/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E9%AA%8C%E5%B0%8F%E8%AE%B0)
+- 🐳 [生活的碎碎念](https://littlefairy.top/Life/category/%E7%A2%8E%E7%A2%8E%E5%BF%B5)
 
 - 🥑 [关于我爱的娱乐游戏](https://littlefairy.top/Life/category/games)
 
