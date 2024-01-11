@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Comic+Sans+MS&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+Baby_9in's+GitHub+homepage)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Comic+Sans+MS&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+X1n_bb's+GitHub+homepage)
 
-🧑 大学牲，中国大学生
+🧑 大学牲，中国大学生,目前在编。
 
 🔆 随时保持学习，天天向上
 
